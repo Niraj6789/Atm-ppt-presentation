@@ -1,2 +1,2 @@
-# Atm-ppt-presentation
+# Atm project
 Simple ppt
